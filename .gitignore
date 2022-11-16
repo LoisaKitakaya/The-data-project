@@ -133,3 +133,6 @@ dmypy.json
 
 # stash
 stash.txt
+
+# csv files
+*.csv
